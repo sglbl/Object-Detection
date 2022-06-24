@@ -1,5 +1,5 @@
 # Object-Detection
-Object Detection Based on Feature Detector and Descriptors by Comparing 2 Pictures
+Object Detection(Similarity Analysis) Based on Feature Detector and Descriptors by Comparing 2 Pictures
 
 ## Feature Based Method That Is Used
 
